@@ -9,7 +9,7 @@ Some parts of this bot are written in **Brazilian Portuguese** because it is bei
 - 🎰 **Coinflip** – Bet your RP's in the classic heads or tails game.
 - 💰 **Economy** – Claim daily and weekly rewards, check your balance, and view the RP leaderboard.
 - 🔍 **Spoiler System** (In Development) – Hide and reveal messages interactively.
-- ⚙️ **Modular System** (In Development)  – The bot is easily expandable, allowing new commands to be added with ease.
+- ⚙️ **Modal System** (In Development)  – The bot is easily expandable, allowing new commands to be added with ease.
 
 ## 💾 Technologies Used
 - **Node.js** – For bot execution.
